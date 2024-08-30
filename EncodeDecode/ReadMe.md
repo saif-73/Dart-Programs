@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>String Encoding and Decoding</title>
 </head>
 <body>
@@ -23,4 +19,4 @@
     <p><strong>Encoding:</strong> Maps each character to a unique numeric code.</p>
     <p><strong>Decoding:</strong> Converts numeric codes back to their corresponding characters.</p>
 </body>
-</html>
+
